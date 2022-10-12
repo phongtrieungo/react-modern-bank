@@ -1,5 +1,6 @@
 import styles from '../style';
-import { discount, robot } from '../assets';
+import discount from '../assets/Discount.svg';
+import robot from '../assets/robot.png';
 import { GetStarted } from './GetStarted';
 
 export const Hero = () => (

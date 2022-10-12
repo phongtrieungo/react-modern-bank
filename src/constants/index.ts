@@ -1,4 +1,18 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import star from '../assets/Star.svg';
+import shield from '../assets/Shield.svg';
+import send from '../assets/Send.svg';
+import people01 from '../assets/people01.png';
+import people02 from '../assets/people02.png';
+import people03 from '../assets/people03.png';
+
+import facebook from '../assets/facebook.svg';
+import instagram from '../assets/instagram.svg';
+import linkedin from '../assets/linkedin.svg';
+import twitter from '../assets/twitter.svg';
+import airbnb from '../assets/airbnb.png';
+import binance from '../assets/binance.png';
+import coinbase from '../assets/coinbase.png';
+import dropbox from '../assets/dropbox.png';
 
 export const navLinks = [
   {
